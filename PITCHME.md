@@ -13,9 +13,7 @@ _paginate: false
 
 # <!--fit--> Marp CLI example
 
-Hosting Marp slide deck on the web
-
-https://github.com/yhatt/marp-cli-example
+Bitcoin and Freedom
 
 <style scoped>a { color: #36c; }</style>
 
