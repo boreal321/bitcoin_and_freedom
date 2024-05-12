@@ -19,55 +19,21 @@ _paginate: false
 
 ---
 
-![Marp bg 60%](https://bitcoin.org/img/home/bitcoin-img.svg)
+![Marp bg 40%](https://bitcoin.org/img/home/bitcoin-img.svg)
 
 ---
 
 <!-- _backgroundColor: "#123" -->
 <!-- _color: "#fff" -->
 
-##### <!--fit--> [Marp CLI](https://github.com/marp-team/marp-cli) + [GitHub Pages](https://github.com/pages) | [Netlify](https://www.netlify.com/) | [Vercel](https://vercel.com/)
-
-##### <!--fit--> 👉 The easiest way to host<br />your Marp deck on the web
+# Bitcoin is a decentrlized network that is controlled by no one.
 
 ---
 
-![bg right 60%](https://icongr.am/octicons/mark-github.svg)
-
-## **[GitHub Pages](https://github.com/pages)**
-
-#### Ready to write & host your deck!
-
-[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+# That means no one can stop transactions that do not belong to them.
 
 ---
 
-![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
-
-## **[Netlify](https://www.netlify.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+# <!-- fit --> 👍
 
 ---
-
-![bg right 60%](https://icongr.am/simple/zeit.svg)
-
-## **[Vercel](https://vercel.com/)**
-
-#### Ready to write & host your deck!
-
-[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
-
----
-
-### <!--fit--> :ok_hand:
-
----
-
-![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
-
-### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
-
-https://github.com/yhatt/marp-cli-example
