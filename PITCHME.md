@@ -19,7 +19,7 @@ _paginate: false
 
 ---
 
-![Marp bg 60%](https://raw.githubusercontent.com/marp-team/marp/master/marp.png)
+![Marp bg 60%](https://bitcoin.org/img/home/bitcoin-img.svg)
 
 ---
 
