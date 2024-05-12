@@ -11,9 +11,7 @@ _paginate: false
 
 ![bg opacity](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
-
-Bitcoin and Freedom
+# <!--fit--> Bitcoin and Freedom
 
 <style scoped>a { color: #36c; }</style>
 
